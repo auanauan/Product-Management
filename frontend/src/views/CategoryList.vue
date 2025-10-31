@@ -541,6 +541,7 @@ onMounted(() => {
 .date-col {
   color: #6c757d;
   font-size: 0.875rem;
+  text-wrap: nowrap;
 }
 
 /* Buttons */

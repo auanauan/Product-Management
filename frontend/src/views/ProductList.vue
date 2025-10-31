@@ -619,6 +619,7 @@ onMounted(() => {
 .date-col {
   color: #6c757d;
   font-size: 0.875rem;
+  text-wrap: nowrap;
 }
 
 /* Badges */
@@ -644,6 +645,7 @@ onMounted(() => {
 .badge-info {
   background: #cce5ff;
   color: #004085;
+  text-wrap: nowrap;
 }
 
 /* Buttons */
