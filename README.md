@@ -148,10 +148,6 @@ Backend API endpoints จะอยู่ที่ `http://localhost:5000/api/`
 - Type-safe development ด้วย TypeScript
 - Responsive design
 
-## License
-
-ISC
-
 ## ผู้พัฒนา
 
 สำหรับข้อมูลเพิ่มเติม กรุณาดูที่ไฟล์ `Playbook - ระบบจัดการสินค้า.docx`
